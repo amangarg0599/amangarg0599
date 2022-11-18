@@ -1,4 +1,4 @@
-![Web 1920 – 1](https://github.com/amangarg0599/amangarg0599/raw/29c2041c3609777952f8c5ef8c0c3837bf1aa5a8/1.png)
+![Web 1920 – 1](https://github.com/amangarg0599/amangarg0599/raw/main/Aman%20Garg.png)
 <p align="center">
   <b>A software engineer who loves building products.</b><br> <br>
   <a href="https://www.linkedin.com/in/amangarg0599/" target="_blank">LinkedIn</a> |
