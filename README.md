@@ -1,22 +1,26 @@
-![Web 1920 – 1](https://raw.githubusercontent.com/amangarg0599/amangarg0599/main/Aman%20Garg.png)
+# Aman Garg
+
+![Aman Garg](https://raw.githubusercontent.com/amangarg0599/amangarg0599/main/Aman%20Garg.png)
+
+Welcome to my GitHub profile! I'm Aman Garg, a passionate software engineer who loves turning ideas into reality through code.
+
+## About Me
+
+- 👀 I’m interested in coding, exploring, and traveling.
+- 🌱 I’m currently learning various things, including DSA and web development.
+
+## Let's Connect!
+
 <p align="center">
-  <b>A software engineer who loves building products.</b><br> <br>
+  <b>Find me on:</b><br><br>
   <a href="https://www.linkedin.com/in/amangarg0599/" target="_blank">LinkedIn</a> |
   <a href="https://amangarg0599.me/" target="_blank">Portfolio</a> |
-  <a href="https://www.leetcode.com/amangarg0599" target="_blank">Behance</a> |
-  <a href="https://twitter.com/amangarg0599" target="_blank">Twitter</a> |
-  <br><br>
+  <a href="https://www.leetcode.com/amangarg0599" target="_blank">LeetCode</a> |
+  <a href="https://twitter.com/amangarg0599" target="_blank">Twitter</a>
 </p>
 
+## Get in Touch
 
+- 💬 Let's collaborate! Reach out to me on [LinkedIn](https://www.linkedin.com/in/amangarg0599/) or [Twitter](https://twitter.com/amangarg0599).
 
-<!---
-amangarg0599/amangarg0599 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-- 👋 Hi, I’m @amangarg0599
-- 👀 I’m interested in coding, exploring, travelling.
-- 🌱 I’m currently learning many things actually such as DSA, Web development.
-- 📫 How to reach me - 
-My social handles are @amangarg0599 ( Twitter 🕊️, Github🐈‍⬛ , Facebook 🤵, Leetcode🧑‍💻)
---->
-<!-- - 💞️ I’m looking to collaborate on ... -->
+Enjoy exploring my repositories, and feel free to connect with me. Happy coding!
