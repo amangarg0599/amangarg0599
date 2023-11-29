@@ -1,6 +1,8 @@
-# Aman Garg
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amangarg0599/amangarg0599/main/Aman%20Garg.png" alt="Aman Garg">
+</p>
 
-![Aman Garg](https://raw.githubusercontent.com/amangarg0599/amangarg0599/main/Aman%20Garg.png)
+<h1 align="center">Aman Garg</h1>
 
 Welcome to my GitHub profile! I'm Aman Garg, a passionate software engineer who loves turning ideas into reality through code.
 
@@ -13,10 +15,10 @@ Welcome to my GitHub profile! I'm Aman Garg, a passionate software engineer who 
 
 <p align="center">
   <b>Find me on:</b><br><br>
-  <a href="https://www.linkedin.com/in/amangarg0599/" target="_blank">LinkedIn</a> |
-  <a href="https://amangarg0599.me/" target="_blank">Portfolio</a> |
-  <a href="https://www.leetcode.com/amangarg0599" target="_blank">LeetCode</a> |
-  <a href="https://twitter.com/amangarg0599" target="_blank">Twitter</a>
+  <a href="https://www.linkedin.com/in/amangarg0599/" target="_blank">LinkedIn</a> | 🌐
+  <a href="https://amangarg0599.me/" target="_blank">Portfolio</a> | 📂
+  <a href="https://www.leetcode.com/amangarg0599" target="_blank">LeetCode</a> | 💻
+  <a href="https://twitter.com/amangarg0599" target="_blank">Twitter</a> | 🐦
 </p>
 
 ## Get in Touch
